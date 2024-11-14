@@ -25,6 +25,7 @@ I expect most new owners would want their keyboard back to a known good state. I
 The following is modified from the official Roland knowledgebase article linked below.  
 
 The following procedures can be used to clear the internal memory and reload the factory settings:
+
 **CAUTION: All USER information will be lost. Be sure to back up any information you wish to keep.**
 
 D-10 and D-20 original factory data must be loaded in via MIDI or a Memory Card. 
